@@ -1,0 +1,3 @@
+D:\Project\Lb6\LB6.2\Debug\LB6.2.exe
+D:\Project\Lb6\LB6.2\Debug\LB6.2.pdb
+D:\Project\Lb6\LB6.2\Unittest6.2a\Debug\LB6.2.pdb

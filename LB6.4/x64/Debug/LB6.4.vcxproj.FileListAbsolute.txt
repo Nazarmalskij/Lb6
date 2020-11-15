@@ -1,0 +1,2 @@
+D:\Project\Lb6\LB6.4\x64\Debug\LB6.4.exe
+D:\Project\Lb6\LB6.4\x64\Debug\LB6.4.pdb

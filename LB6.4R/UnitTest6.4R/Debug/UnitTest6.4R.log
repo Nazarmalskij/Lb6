@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest6.4R.cpp
+D:\Project\Lb6\LB6.4R\LB6.4R.cpp(51): warning C4715: 'Sum': not all control paths return a value
+     Creating library D:\Project\Lb6\LB6.4R\Debug\UnitTest6.4R.lib and object D:\Project\Lb6\LB6.4R\Debug\UnitTest6.4R.exp
+  UnitTest6.4R.vcxproj -> D:\Project\Lb6\LB6.4R\Debug\UnitTest6.4R.dll

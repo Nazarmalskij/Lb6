@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest6.1R.cpp
+D:\Project\Lb6\LB6.1R\UnitTest6.1R\UnitTest6.1R.cpp(16,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\Project\Lb6\LB6.1R\Debug\UnitTest6.1R.lib and object D:\Project\Lb6\LB6.1R\Debug\UnitTest6.1R.exp
+  UnitTest6.1R.vcxproj -> D:\Project\Lb6\LB6.1R\Debug\UnitTest6.1R.dll
